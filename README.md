@@ -18,8 +18,11 @@ describe every assumption and every step in your report.
 Select a dataset identically to the way you selected for the first project work week and mini-project.
 You are not required to use the same dataset that you used in the past, but you are encouraged.
 You must identify two tasks from the dataset to regress or classify. That is:
+
 • two classification tasks OR
+
 • two regression tasks OR
+
 • one classification task and one regression task
 
 For example, if your dataset was from the diabetes data you might try to predict two tasks: (1)
